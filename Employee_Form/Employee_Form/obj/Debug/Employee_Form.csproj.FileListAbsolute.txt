@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\bin\Debug\Employee_Form.exe.config
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\bin\Debug\Employee_Form.exe
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\bin\Debug\Employee_Form.pdb
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.Employee.resources
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.exe
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.pdb
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\bin\Debug\MetroFramework.dll
+C:\Users\User\OneDrive - National Institute of Business Management\DSE 22.2F\GAD\Employee_Form\Employee_Form\obj\Debug\Employee_Form.csproj.CopyComplete
